@@ -30,3 +30,11 @@
 ## 相关链接 
 
 
+
+
+## 相关参考
+
+- [jest-puppeteer实践](https://itnext.io/testing-your-javascript-in-a-browser-with-jest-puppeteer-express-and-webpack-c998a37ef887?gi=12fad619e9ab)
+- [jestjs with puppeteer](https://jestjs.io/docs/en/puppeteer)
+- [jestjs configuration](https://jestjs.io/docs/en/configuration#globals-object)
+- [jest-puppeteer github](https://github.com/smooth-code/jest-puppeteer)
